@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RudeCodeDesign
 - 👀 I’m interested in  technologies.
+- Hello Odin!
 - 🌱 I’m currently learning code.
 - 💞️ I’m looking to collaborate on any projects, so I can develop my code.
 - 📫 How to reach me RudeCodeDesign@gmail.com.
